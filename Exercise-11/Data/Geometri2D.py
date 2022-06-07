@@ -1,6 +1,8 @@
 # Silakan perhatikan perintah pada file 11_Modul&Paket.ipynb sebelum membuka file ini
 import math
 
+pi = 3.14
+
 def LuasPersegiPanjang(p,l):
     return p*l
 
